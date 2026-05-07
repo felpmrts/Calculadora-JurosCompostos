@@ -44,7 +44,7 @@ Follow these steps to run the simulation on your local machine:
     ```
 2. Navigate to the project directory:
     ```Bash
-    cd Calculadora_JurosCompostos
+    cd Calculadora-JurosCompostos
     ```
 3. Execute the main script:
     ```Bash    
