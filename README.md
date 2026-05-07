@@ -40,7 +40,7 @@ Follow these steps to run the simulation on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/Calculadora_JurosCompostos.git](https://github.com/your-username/Calculadora-JurosCompostos.git)
+   git clone [https://github.com/your-username/Calculadora-JurosCompostos.git](https://github.com/your-username/Calculadora-JurosCompostos.git)
     ```
 2. Navigate to the project directory:
     ```Bash
